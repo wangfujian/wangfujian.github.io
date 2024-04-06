@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "wangfujian"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "/images/android-chrome-512x512.png"
   bio              : "Northwestern Polytechnical University"
   location         : "Xian, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=I6Fe0ZYAAAAJ" #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=I6Fe0ZYAAAAJ" #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "liu_peng@mail.nwpu.edu.cn.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
