@@ -26,19 +26,18 @@ redirect_from:
 
 
 # 👨‍🎓 Teachers
-<div class='teacher-name'><div class='teacher-image'><div><img src='images/dangqingqing.png' alt="sym" width="100%"></div></div>
 <div class="teacher-info">
     <div class="teacher-image">
-        <img src="teacher.jpg" alt="教师照片">
+        <img src="images/dangqingqing.png" alt="教师照片">
     </div>
     <div class="teacher-details">
-        <h2>张三</h2>
-        <p>学历：博士</p>
+        <h2>党庆庆</h2>
+        <p>学历：博士研究生毕业</p>
         <p>性别：男</p>
-        <p>学位：工学博士</p>
-        <p>学院：计算机科学与技术学院</p>
-        <p>职称：教授</p>
-        <p>邮箱：zhangsan@example.com</p>
+        <p>学位：工学博士学位</p>
+        <p>学院：民航学院</p>
+        <p>职称：中级</p>
+        <p>电子邮箱：dangqingqing@nwpu.edu.cn</p>
     </div>
 </div>
 
