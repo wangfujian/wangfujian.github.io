@@ -106,7 +106,7 @@ redirect_from:
 
 <div class="equipment-info">
     <div class="equipment-image">
-        <img src="helicopter.jpg" alt="设备照片">
+        <img src="helicopter.png" alt="设备照片">
     </div>
     <div class="equipment-details">
         <h2>三自由度直升机</h2>
@@ -125,7 +125,7 @@ redirect_from:
 
 <div class="equipment-info">
     <div class="equipment-image">
-        <img src="quadrotor.jpg" alt="设备照片">
+        <img src="quadrotor.png" alt="设备照片">
     </div>
     <div class="equipment-details">
         <h2>四旋翼飞行仿真器</h2>
@@ -136,7 +136,7 @@ redirect_from:
             <li>1：动力学分析；</li>
             <li>2：建立状态方程；</li>
             <li>3：线性二次型最优调节器；</li>
-            <li>4： LQR调节器的阶跃仿真；</li>
+            <li>4：LQR调节器的阶跃仿真；</li>
             <li>5：四旋翼LQR六状态阶跃响应测试；</li>
             <li>6：四旋翼LQR九状态阶跃响应测试；</li>
             <li>7：系统误差分析。</li>
@@ -145,6 +145,25 @@ redirect_from:
     </div>
 </div>
 
+<div class="equipment-info">
+    <div class="equipment-image">
+        <img src="balance.png" alt="设备照片">
+    </div>
+    <div class="equipment-details">
+        <h2>自平衡小车</h2>
+        <p>自平衡小车是一个自由移动的三自由度倒立摆系统，可以实现本体前后移动、前后俯仰、左右转向偏航三种运动模式。小车上的倾角计和两个编码器能实时反馈电机的转角和俯仰偏角进入控制器，从而控制左右两轮的力矩使小车保持平衡，并可以通过无线遥控控制小车。</p>
+        <p>实验内容：</p>
+        <ul>
+            <li>1：直线一级倒立摆及数学模型；</li>
+            <li>2：线性二次型最优调节器；</li>
+            <li>3：自平衡小车的数学模型建立 ；</li>
+            <li>4：LQR线性二次型最优调节器的设计；</li>
+            <li>5：自平衡小车的LQR调节器Matlab仿真设计；</li>
+            <li>6：自平衡小车的状态反馈Matlab仿真设计。</li>
+            <!-- 添加更多设备参数 -->
+        </ul>
+    </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
