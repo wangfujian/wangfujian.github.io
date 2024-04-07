@@ -106,7 +106,7 @@ redirect_from:
 
 <div class="equipment-info">
     <div class="equipment-image">
-        <img src="helicopter.png" alt="设备照片">
+        <img src="images/helicopter.png" alt="设备照片">
     </div>
     <div class="equipment-details">
         <h2>三自由度直升机</h2>
@@ -125,7 +125,7 @@ redirect_from:
 
 <div class="equipment-info">
     <div class="equipment-image">
-        <img src="quadrotor.png" alt="设备照片">
+        <img src="images/quadrotor.png" alt="设备照片">
     </div>
     <div class="equipment-details">
         <h2>四旋翼飞行仿真器</h2>
@@ -147,7 +147,7 @@ redirect_from:
 
 <div class="equipment-info">
     <div class="equipment-image">
-        <img src="balance.png" alt="设备照片">
+        <img src="images/balance.png" alt="设备照片">
     </div>
     <div class="equipment-details">
         <h2>自平衡小车</h2>
