@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "wangfujian"
+  name             : "太仓飞控实验室"
   avatar           : "/images/android-chrome-512x512.png"
   bio              : "Northwestern Polytechnical University"
-  location         : "Xian, China"
+  location         : "太仓, 江苏"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=I6Fe0ZYAAAAJ" #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
