@@ -25,13 +25,12 @@ redirect_from:
 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 👨‍🎓 Teachers
+<div class='teacher-name'><div class='teacher-image'><div><img src='images/android-chrome-512x512.png' alt="sym" width="100%"></div></div>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/android-chrome-512x512.png' alt="sym" width="100%"></div></div>
+<div class='teacher-name'><div class='teacher-image'><div><div class="badge">CVPR 2016</div><img src='images/android-chrome-512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
