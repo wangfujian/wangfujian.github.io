@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "Introduction"
     url: "/#about-me"
 
-  - title: "News"
+  - title: "Teachers"
     url: "/#-news"
 
   - title: "Publications"
