@@ -26,6 +26,29 @@ redirect_from:
 
 
 # 👨‍🎓 Teachers
+<style>
+    .teacher-info {
+        display: flex; /* 使用 Flexbox 布局 */
+        align-items: center; /* 垂直居中对齐 */
+        margin-bottom: 20px; /* 设置底部边距 */
+    }
+
+    .teacher-image {
+        flex: 0 0 auto; /* 不伸缩，固定宽度 */
+        margin-right: 20px; /* 右边距 */
+    }
+
+    .teacher-details {
+        flex: 1; /* 伸缩，占据剩余空间 */
+    }
+
+    .teacher-image img {
+        width: 150px; /* 设置照片宽度 */
+        height: auto; /* 自动计算高度 */
+        border-radius: 50%; /* 圆形边框 */
+    }
+</style>
+
 <div class="teacher-info">
     <div class="teacher-image">
         <img src="images/dangqingqing.png" alt="教师照片">
