@@ -23,9 +23,3 @@ redirect_from:
 
 <a href='https://www.nwpu.edu.cn/' style='text-decoration: none;'><strong>点击</strong><span id='total_cit'>加入我们！</span></a>
 
-# 🚩 Research Direction
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
