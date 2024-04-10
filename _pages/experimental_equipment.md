@@ -1,5 +1,5 @@
 ---
-permalink: /experimental-equipment/
+permalink: /experimental_equipment/
 title: "Experimental Equipment"
 excerpt: ""
 author_profile: true
