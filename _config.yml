@@ -9,7 +9,7 @@
 title                    : "太仓飞控实验室"
 description              : "西北工业大学太仓校区飞控实验室"
 repository               : "wangfujian/wangfujian.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
