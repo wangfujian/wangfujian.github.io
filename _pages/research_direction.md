@@ -35,7 +35,7 @@ author_profile: true
 
 <div class="research-info">
     <div class="research-image">
-        <img src="amphibious_aircraft.jpg" alt="水陆两栖飞行器照片">
+        <img src="/imags/aircraft.png" alt="水陆两栖飞行器照片">
     </div>
     <div class="research-details">
         <h2>水陆两栖飞行器研究方向</h2>
