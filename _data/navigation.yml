@@ -4,10 +4,10 @@ main:
     url: "/teachers/"
 
   - title: "Experimental Equipment"
-    url: "/experimental-equipment/"
+    url: "/experimental_equipment/"
 
   - title: "Research Direction"
-    url: "/research-direction/"
+    url: "/research_direction/"
     
   - title: "Honors and Awards"
-    url: "/honors-and-awards/"
+    url: "/honors_and_awards/"
