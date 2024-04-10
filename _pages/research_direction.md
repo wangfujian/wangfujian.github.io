@@ -46,7 +46,7 @@ author_profile: true
         </ul>
         <div class="video-link">
             <p>了解更多，请观看我们的水陆两栖飞行器展示视频：</p>
-            <a href="https://www.youtube.com/embed/VIDEO_ID_HERE" target="_blank">观看水陆两栖飞行器展示视频</a>
+            <a href="https://www.bilibili.com/video/BV1ho4y1K7PT/?share_source=copy_web&vd_source=06ebdbd6317b7bb68345f533f1c6f79c" target="_blank">观看水陆两栖飞行器展示视频</a>
         </div>
     </div>
 </div>
