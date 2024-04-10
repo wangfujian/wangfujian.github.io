@@ -30,7 +30,7 @@ author_profile: true
 
 <div class="teacher-info">
     <div class="teacher-image">
-        <img src="images/dangqingqing.png" alt="教师照片">
+        <img src="/images/dangqingqing.png" alt="教师照片">
     </div>
     <div class="teacher-details">
         <h2>党庆庆</h2>
@@ -45,7 +45,7 @@ author_profile: true
 
 <div class="teacher-info">
     <div class="teacher-image">
-        <img src="images/chenjianlin.png" alt="教师照片">
+        <img src="/images/chenjianlin.png" alt="教师照片">
     </div>
     <div class="teacher-details">
         <h2>陈建林</h2>
