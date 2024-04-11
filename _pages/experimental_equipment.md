@@ -12,6 +12,10 @@ author_profile: true
         display: flex; /* 使用 Flexbox 布局 */
         align-items: center; /* 垂直居中对齐 */
         margin-bottom: 20px; /* 设置底部边距 */
+        background-color: #fff; /* 背景颜色为白色 */
+        padding: 20px; /* 内边距为20像素 */
+        border-radius: 8px; /* 边框圆角半径为8像素 */
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* 添加轻微阴影效果 */
     }
 
     .equipment-image {
@@ -24,6 +28,17 @@ author_profile: true
         text-align: justify; /* 将文本两端对齐 */
     }
 
+    /* 水平排列的设备信息容器样式 */
+    .equipment-info.horizontal {
+    flex-direction: row; /* 设置为水平排列 */
+    }
+
+    /* 垂直排列的设备信息容器样式 */
+    .equipment-info.vertical {
+    flex-direction: column; /* 设置为垂直排列 */
+    align-items: center; /* 水平居中对齐 */
+    }
+    
     .equipment-image img {
         width: 200px; /* 设置设备照片宽度 */
         height: auto; /* 自动计算高度 */
@@ -31,7 +46,7 @@ author_profile: true
     }
 </style>
 
-<div class="equipment-info">
+<div class="equipment-info horizontal">
     <div class="equipment-image">
         <img src="/images/helicopter.png" alt="设备照片">
     </div>
@@ -50,7 +65,7 @@ author_profile: true
     </div>
 </div>
 
-<div class="equipment-info">
+<div class="equipment-info horizontal">
     <div class="equipment-image">
         <img src="/images/quadrotor.png" alt="设备照片">
     </div>
@@ -72,7 +87,7 @@ author_profile: true
     </div>
 </div>
 
-<div class="equipment-info">
+<div class="equipment-info horizontal">
     <div class="equipment-image">
         <img src="/images/balance.png" alt="设备照片">
     </div>
@@ -92,33 +107,7 @@ author_profile: true
     </div>
 </div>
 
-<style>
-    .equipment-info {
-    display: flex;
-    align-items: center; /* 垂直居中对齐 */
-    margin-bottom: 20px;
-    }
-
-.equipment-image {
-    flex: 0 0 auto; /* 固定宽度，不伸缩 */
-    margin-right: 20px;
-    text-align: center; /* 图片水平居中 */
-    }
-
-.equipment-image img {
-    width: 200px;
-    height: auto;
-    border-radius: 8px;
-    }
-
-.equipment-details {
-    flex: 1; /* 占据剩余空间 */
-    text-align: justify;
-    }
-</style>
-
-
-<div class="equipment-info">
+<div class="equipment-info vertical">
     <div class="equipment-image">
         <img src="/images/sanzhouzhuantai.png" alt="设备照片">
     </div>
