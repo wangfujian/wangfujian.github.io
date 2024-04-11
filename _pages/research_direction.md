@@ -20,6 +20,7 @@ author_profile: true
 
     .research-details {
         flex: 1; /* 伸缩，占据剩余空间 */
+        text-align: justify; /* 将文本两端对齐 */
     }
 
     .research-image img {
