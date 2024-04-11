@@ -69,6 +69,7 @@ author_profile: true
             <li>5：系统误差分析。</li>
             <!-- 添加更多设备参数 -->
         </ul>
+        <p>如果需要了解更多关于该设备的更多信息，请参阅<a href="/device-document/三自由度直升机用户手册V1.2.pdf" target="_blank">设备使用手册</a>。</p>
     </div>
 </div>
 
