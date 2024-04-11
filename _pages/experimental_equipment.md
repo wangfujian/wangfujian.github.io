@@ -24,6 +24,7 @@ author_profile: true
     }
 
     .equipment-details {
+        text-indent: -2em; /* 设置首行缩进为负两个字符的宽度 */
         flex: 1; /* 伸缩，占据剩余空间 */
         text-align: justify; /* 将文本两端对齐 */
     }
@@ -39,15 +40,21 @@ author_profile: true
     align-items: center; /* 水平居中对齐 */
     }
     
-    .equipment-image img {
+    .equipment-image.horizontal img {
         width: 200px; /* 设置设备照片宽度 */
         height: auto; /* 自动计算高度 */
         border-radius: 8px; /* 圆角边框 */
     }
+
+    .equipment-image.vertical img {
+    width: auto; /* 设置设备照片宽度 */
+    height: 300px; /* 自动计算高度 */
+    border-radius: 8px; /* 圆角边框 */
+    }
 </style>
 
 <div class="equipment-info horizontal">
-    <div class="equipment-image">
+    <div class="equipment-image horizontal">
         <img src="/images/helicopter.png" alt="设备照片">
     </div>
     <div class="equipment-details">
@@ -66,7 +73,7 @@ author_profile: true
 </div>
 
 <div class="equipment-info horizontal">
-    <div class="equipment-image">
+    <div class="equipment-image horizontal">
         <img src="/images/quadrotor.png" alt="设备照片">
     </div>
     <div class="equipment-details">
@@ -88,7 +95,7 @@ author_profile: true
 </div>
 
 <div class="equipment-info horizontal">
-    <div class="equipment-image">
+    <div class="equipment-image horizontal">
         <img src="/images/balance.png" alt="设备照片">
     </div>
     <div class="equipment-details">
@@ -108,7 +115,7 @@ author_profile: true
 </div>
 
 <div class="equipment-info vertical">
-    <div class="equipment-image">
+    <div class="equipment-image vertical">
         <img src="/images/sanzhouzhuantai.png" alt="设备照片">
     </div>
     <div class="equipment-details">
@@ -118,23 +125,23 @@ author_profile: true
         <p>三轴转台主要指标：</p>
         <ul>
             <li>1）转台工作方式：位置、速率、远程控制、半实物/全数字仿真。</li>
-            <li>2）台面：承载能力：20kg；
-                        工作台面直径：300mm；
-                        T型台面与中框轴心线的距离：150mm；
-                        平面度：0.015mm；
+            <li>2）台面：承载能力：20kg；<br>
+                        工作台面直径：300mm；<br>
+                        T型台面与中框轴心线的距离：150mm；<br>
+                        平面度：0.015mm；<br>
                         升降机构：升降范围0~500mm。</li>
-            <li>3）轴系：倾角回转误差：±8″；
-                        三框转角范围：±120°；
+            <li>3）轴系：倾角回转误差：±8″；<br>
+                        三框转角范围：±120°；<br>
                         三轴不垂真度：±18″。</li>
-            <li>4）角位置：定位精度：±8″；
-                        位置分辨率：2.88″；
+            <li>4）角位置：定位精度：±8″；<br>
+                        位置分辨率：2.88″；<br>
                         定位重复性：±4″。</li>
-            <li>5）角速率：内框速率范围：±0.001°/s~±600°/s；
-                        中框速率范围：±0.001°/s~±400°/s；
-                        外框速率范围：±0.001°/s~±200°/s；
-                        三轴联动速率：60°/s；
-                        速率精度：1×10-4(360°平均)，1×10-3(10°平均)，1×10-2(1°平均)；
-                        速率平稳性：1×10-4(360°平均)，1×10-3(10°平均)，1×10-2(1°平均)；
+            <li>5）角速率：内框速率范围：±0.001°/s~±600°/s；<br>
+                        中框速率范围：±0.001°/s~±400°/s；<br>
+                        外框速率范围：±0.001°/s~±200°/s；<br>
+                        三轴联动速率：60°/s；<br>
+                        速率精度：1×10-4(360°平均)，1×10-3(10°平均)，1×10-2(1°平均)；<br>
+                        速率平稳性：1×10-4(360°平均)，1×10-3(10°平均)，1×10-2(1°平均)；<br>
                         最大角加速度：内框±600°/s2，中框±400°/s2，外框±200°/s2。</li>
             <!-- 添加更多设备参数 -->
         </ul>
