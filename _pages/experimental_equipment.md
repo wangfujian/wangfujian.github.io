@@ -92,6 +92,33 @@ author_profile: true
     </div>
 </div>
 
+<style>
+    .equipment-info {
+    display: flex;
+    align-items: center; /* 垂直居中对齐 */
+    margin-bottom: 20px;
+    }
+
+.equipment-image {
+    flex: 0 0 auto; /* 固定宽度，不伸缩 */
+    margin-right: 20px;
+    text-align: center; /* 图片水平居中 */
+    }
+
+.equipment-image img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    }
+
+.equipment-details {
+    flex: 1; /* 占据剩余空间 */
+    text-align: justify;
+    }
+
+</style>
+
+
 <div class="equipment-info">
     <div class="equipment-image">
         <img src="/images/sanzhouzhuantai.png" alt="设备照片">
