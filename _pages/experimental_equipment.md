@@ -69,7 +69,7 @@ author_profile: true
             <li>5：系统误差分析。</li>
             <!-- 添加更多设备参数 -->
         </ul>
-        <p>如果需要了解更多关于该设备的更多信息，请参阅<a href="/device-document/三自由度直升机用户手册V1.2.pdf" target="_blank">设备使用手册</a>。</p>
+        <p>如果需要了解更多关于该设备的信息，请参阅<a href="/device-document/三自由度直升机用户手册V1.2.pdf" target="_blank">设备使用手册</a>。</p>
     </div>
 </div>
 
@@ -92,6 +92,7 @@ author_profile: true
             <li>7：系统误差分析。</li>
             <!-- 添加更多设备参数 -->
         </ul>
+        <p>如果需要了解更多关于该设备的信息，请参阅<a href="/device-document/四旋翼飞行仿真器用户手册.pdf" target="_blank">设备使用手册</a>。</p>
     </div>
 </div>
 
@@ -146,5 +147,6 @@ author_profile: true
                         最大角加速度：内框±600°/s2，中框±400°/s2，外框±200°/s2。</li>
             <!-- 添加更多设备参数 -->
         </ul>
+        <p>如果需要了解更多关于该设备的信息，请参阅<a href="/device-document/GHP2002型三自由度直升机实验指导书V2018.pdf" target="_blank">设备使用手册</a>。</p>
     </div>
 </div>
