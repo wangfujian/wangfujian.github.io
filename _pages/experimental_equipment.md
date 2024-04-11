@@ -24,7 +24,7 @@ author_profile: true
     }
 
     .equipment-details {
-        text-indent: 2em; /* 设置首行缩进为负两个字符的宽度 */
+        /*text-indent: 2em; /* 设置首行缩进为两个字符的宽度 */*/
         flex: 1; /* 伸缩，占据剩余空间 */
         text-align: justify; /* 将文本两端对齐 */
     }
