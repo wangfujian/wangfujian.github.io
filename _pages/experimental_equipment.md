@@ -32,10 +32,6 @@ author_profile: true
     text-indent: 2em; /* 设置首行缩进为两个字符的宽度 */
     }
 
-    .equipment-details li {
-    text-indent: 1em; /* 设置缩进为一个字符的宽度 */
-    }
-
     /* 水平排列的设备信息容器样式 */
     .equipment-info.horizontal {
     flex-direction: row; /* 设置为水平排列 */
