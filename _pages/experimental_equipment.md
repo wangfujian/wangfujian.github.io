@@ -24,7 +24,7 @@ author_profile: true
     }
 
     .equipment-image img {
-        width: 150px; /* 设置设备照片宽度 */
+        width: 200px; /* 设置设备照片宽度 */
         height: auto; /* 自动计算高度 */
         border-radius: 8px; /* 圆角边框 */
     }
