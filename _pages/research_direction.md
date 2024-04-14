@@ -80,7 +80,6 @@ author_profile: true
         </ul>
         </div>
     </div>
-</div>
 
 # 半实物仿真系统
 <div class="research-info">
@@ -109,4 +108,3 @@ author_profile: true
         </ul>
         </div>
     </div>
-</div>
