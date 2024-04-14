@@ -119,9 +119,9 @@ author_profile: true
     </div>
 </div>
 
-<div class="equipment-info vertical">
-    <div class="equipment-image vertical">
-        <img src="/images/sanzhouzhuantai.png" alt="设备照片">
+<div class="equipment-info horizontal">
+    <div class="equipment-image horizontal">
+        <img src="/images/sanzhouyuntai.png" alt="设备照片">
     </div>
     <div class="equipment-details">
         <h2>三轴转台</h2>
