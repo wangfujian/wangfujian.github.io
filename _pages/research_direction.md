@@ -53,6 +53,7 @@ author_profile: true
     </div>
 </div>
 
+# 动态捕捉系统
 <div class="research-info">
     <div class="research-image">
         <img src="/images/buzhuosystem.png" alt="动态捕捉系统">
