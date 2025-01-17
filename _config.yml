@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "太仓飞控实验室"
-description              : "西北工业大学太仓校区飞控实验室"
+title                    : "航空飞控与信息系统实验室"
+description              : "西北工业大学太仓校区教学区D座109"
 repository               : "wangfujian/wangfujian.github.io"
 google_scholar_stats_use_cdn : true
 
