@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "太仓飞控实验室"
+  name             : "航空飞控与信息系统实验室"
   avatar           : "/images/android-chrome-512x512.png"
   bio              : "Northwestern Polytechnical University"
   location         : "太仓, 江苏"
