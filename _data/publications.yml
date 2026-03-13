@@ -1,0 +1,18 @@
+- year: 2026
+  items:
+    - title: "Paper title goes here"
+      authors: "First Author, Second Author, ... (Group Name)"
+      venue: "Journal/Conference Name"
+      links:
+        pdf: "https://example.com/paper.pdf"
+        doi: "https://doi.org/xx.xxxx/xxxxx"
+        code: "https://github.com/your-org/your-repo"
+        project: "https://example.com/project"
+
+- year: 2025
+  items:
+    - title: "Another paper title"
+      authors: "A, B, C"
+      venue: "ArXiv / Preprint"
+      links:
+        arxiv: "https://arxiv.org/abs/xxxx.xxxxx"

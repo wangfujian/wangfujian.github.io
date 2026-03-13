@@ -9,5 +9,11 @@ main:
   - title: "Research Direction"
     url: "/research_direction/"
     
+  - title: "Publications"
+    url: "/publications/"
+
+  - title: "Demo"
+    url: "/demo/"
+
   - title: "Honors and Awards"
     url: "/honors_and_awards/"

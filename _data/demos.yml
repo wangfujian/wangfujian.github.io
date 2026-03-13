@@ -1,0 +1,14 @@
+- title: "Amphibious Aircraft Emergency Rescue Demonstration"
+  date: "2026-03"
+  description: "Developed by Northwestern Polytechnical University, this amphibious cross-domain vehicle demonstrates superior performance compared to conventional unmanned surface vessels (USVs) and unmanned aerial vehicles (UAVs), featuring faster regional deployment capability and extended mission endurance while overcoming geographical and spatial constraints. Tailored for complex water network environments, the system integrates an amphibious hangar with an intelligent management platform to deliver a reliable, full-process solution characterized by rapid response, comprehensive accessibility, and full operational autonomy. As a specialized equipment solution, it effectively addresses a market gap by merging the dual functionalities of aerial surveillance ("seen from the sky" via UAVs) and underwater exploration ("probed in the water" via USVs). Here we present the "Sha Ou 1" model along with its dedicated hangar system. The product offers versatile applications across multiple domains, including:
+Emergency water rescue operations
+Maritime law enforcement and patrols
+Wetland conservation and ecological monitoring
+Port facility and waterway inspections
+Offshore wind farm maintenance
+Marine ranch monitoring and management"
+  video_url: "https://www.youtube.com/watch?v=uENIzYBy5gM"
+
+- title: "Asymmetric Gain Exponential Controller for Amphibious Aircraft Navigation"
+  description: "When an amphibious aircraft operates on water, it typically relies solely on underwater thrusters for propulsion, with its wave resistance capability depending on the inherent stability of the aircraft itself. As a result, it is often susceptible to disturbances from wind and waves on the water surface. To address this issue, the authors have developed an anti-wave attitude control system for amphibious aircraft operating in aquatic environments. Targeting two typical working conditions—static hovering on water and navigation—the system proposes the use of a rotor system as an auxiliary actuator. By dynamically adjusting rotor thrust and torque, real-time suppression and compensation for attitude changes induced by external disturbances can be achieved. The study will separately design a water-surface hovering attitude stabilization control system based on pointing stability, as well as an attitude control system specifically tailored for the pitch channel during navigation to meet unique control objectives. This approach aims to enhance the surface adaptability and operational safety of amphibious aircraft in complex environments."
+  video_url: "https://www.youtube.com/watch?v=N7qRLu-EsaA"
