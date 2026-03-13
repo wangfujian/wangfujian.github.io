@@ -1,0 +1,6 @@
+# 3. 提交修改
+git add .
+git commit -m "Update my profile and publications"
+
+# 4. 推送到 GitHub
+git push origin main

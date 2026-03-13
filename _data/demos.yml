@@ -1,12 +1,13 @@
 - title: "Amphibious Aircraft Emergency Rescue Demonstration"
   date: "2026-03"
-  description: "Developed by Northwestern Polytechnical University, this amphibious cross-domain vehicle demonstrates superior performance compared to conventional unmanned surface vessels (USVs) and unmanned aerial vehicles (UAVs), featuring faster regional deployment capability and extended mission endurance while overcoming geographical and spatial constraints. Tailored for complex water network environments, the system integrates an amphibious hangar with an intelligent management platform to deliver a reliable, full-process solution characterized by rapid response, comprehensive accessibility, and full operational autonomy. As a specialized equipment solution, it effectively addresses a market gap by merging the dual functionalities of aerial surveillance ("seen from the sky" via UAVs) and underwater exploration ("probed in the water" via USVs). Here we present the "Sha Ou 1" model along with its dedicated hangar system. The product offers versatile applications across multiple domains, including:
-Emergency water rescue operations
-Maritime law enforcement and patrols
-Wetland conservation and ecological monitoring
-Port facility and waterway inspections
-Offshore wind farm maintenance
-Marine ranch monitoring and management"
+  description: |
+    Developed by Northwestern Polytechnical University, this amphibious cross-domain vehicle demonstrates superior performance compared to conventional unmanned surface vessels (USVs) and unmanned aerial vehicles (UAVs), featuring faster regional deployment capability and extended mission endurance while overcoming geographical and spatial constraints. Tailored for complex water network environments, the system integrates an amphibious hangar with an intelligent management platform to deliver a reliable, full-process solution characterized by rapid response, comprehensive accessibility, and full operational autonomy. As a specialized equipment solution, it effectively addresses a market gap by merging the dual functionalities of aerial surveillance ("seen from the sky" via UAVs) and underwater exploration ("probed in the water" via USVs). Here we present the "Sha Ou 1" model along with its dedicated hangar system. The product offers versatile applications across multiple domains, including:
+    - Emergency water rescue operations
+    - Maritime law enforcement and patrols
+    - Wetland conservation and ecological monitoring
+    - Port facility and waterway inspections
+    - Offshore wind farm maintenance
+    - Marine ranch monitoring and management
   video_url: "https://www.youtube.com/watch?v=uENIzYBy5gM"
 
 - title: "Asymmetric Gain Exponential Controller for Amphibious Aircraft Navigation"
