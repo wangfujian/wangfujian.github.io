@@ -1,0 +1,39 @@
+masters_2023:
+  - name: "刘鹏"
+    photo: "/images/members/2023_1.jpg"
+    research: "无人系统智能飞行控制"
+    email: "liu_peng@mail.nwpu.edu.cn"
+
+masters_2024:
+  - name: "何宇航"
+    photo: "/images/members/2024_1.jpg"
+    research: "无人机路径规划与决策"
+    email: "yuhang_he@mail.nwpu.edu.cn"
+  - name: "寇容海"
+    photo: "/images/members/2024_2.jpg"
+    research: "飞行器故障诊断、健康管理"
+    email: "kourh@mail.nwpu.edu.cn"
+  - name: "曹方怡"
+    photo: "/images/members/2024_3.jpg"
+    research: "无人机飞行控制"
+    email: "15991761019@163.com"
+
+masters_2025:
+  - name: "陈俊豪"
+    photo: "/images/members/2025_1.jpg"
+    research: "无人机控制"
+    email: "1145176624@qq.com"
+  - name: "房丽琦"
+    photo: "/images/members/2025_2.jpg"
+    research: "无人机集群博弈编队"
+    email: "3185186031@qq.com"
+  - name: "张家韦"
+    photo: "/images/members/2025_3.jpg"
+    research: "图像识别"
+    email: "jiaweizhang@mail.nwpu.edu.cn"
+
+undergrads_2022:
+  - name: "本科生同学"
+    photo: "/images/members/undergrad_2022_01.png"
+    research: "飞控相关方向"
+    email: "undergrad1@mail.nwpu.edu.cn"
