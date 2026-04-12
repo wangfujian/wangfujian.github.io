@@ -70,6 +70,7 @@ author_profile: true
 {% assign m2024 = site.data.members.masters_2024 %}
 {% assign m2025 = site.data.members.masters_2025 %}
 {% assign m2026 = site.data.members.masters_2026 %}
+{% assign alumni_m2022 = site.data.members.alumni_masters_2022 %}
 {% assign u2022 = site.data.members.undergrads_2022 %}
 
 <!-- 2023级硕士生 -->
@@ -154,6 +155,30 @@ author_profile: true
       <div class="member-name">{{ m.name }}</div>
       <div class="member-meta">
         {% if m.research %}研究方向：{{ m.research }}<br>{% endif %}
+        {% if m.email %}邮箱：{{ m.email }}{% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  {% else %}
+    <p>暂无信息</p>
+  {% endif %}
+  </div>
+</div>
+
+<!-- 已毕业：2022级硕士生 -->
+<div class="member-section">
+  <h2>已毕业 · 硕士生（2022级）</h2>
+  <div class="member-grid">
+  {% if alumni_m2022 %}
+    {% for m in alumni_m2022 %}
+    <div class="member-card">
+      {% if m.photo %}
+      <img src="{{ m.photo | relative_url }}" alt="{{ m.name }}">
+      {% endif %}
+      <div class="member-name">{{ m.name }}</div>
+      <div class="member-meta">
+        {% if m.research %}研究方向：{{ m.research }}<br>{% endif %}
+        {% if m.employer %}工作单位：{{ m.employer }}<br>{% endif %}
         {% if m.email %}邮箱：{{ m.email }}{% endif %}
       </div>
     </div>

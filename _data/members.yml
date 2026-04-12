@@ -38,6 +38,12 @@ masters_2026:
     research: "无人机集群任务分配"
     email: "zhangccccc@mail.nwpu.edu.cn"
 
+alumni_masters_2022:
+  - name: "付怡祺"
+    photo: "/images/members/2022_1.jpg"
+    research: "无人机路径规划和自主着陆、四足机器狗强化学习运动控制"
+    employer: "五八智能科技(杭州)有限公司"
+
 undergrads_2022:
   - name: "本科生同学"
     photo: "/images/members/undergrad_2022_01.png"
