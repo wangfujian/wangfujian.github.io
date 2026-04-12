@@ -32,6 +32,12 @@ masters_2025:
     research: "图像识别"
     email: "jiaweizhang@mail.nwpu.edu.cn"
 
+masters_2026:
+  - name: "张晨"
+    photo: "/images/members/2026_1.jpg"
+    research: "无人机集群任务分配"
+    email: "zhangccccc@mail.nwpu.edu.cn"
+
 undergrads_2022:
   - name: "本科生同学"
     photo: "/images/members/undergrad_2022_01.png"
