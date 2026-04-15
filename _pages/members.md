@@ -72,6 +72,7 @@ author_profile: true
 {% assign m2026 = site.data.members.masters_2026 %}
 {% assign alumni_m2022 = site.data.members.alumni_masters_2022 %}
 {% assign u2022 = site.data.members.undergrads_2022 %}
+{% assign u2024 = site.data.members.undergrads_2024 %}
 
 <!-- 2023级硕士生 -->
 <div class="member-section">
@@ -195,6 +196,29 @@ author_profile: true
   <div class="member-grid">
   {% if u2022 %}
     {% for m in u2022 %}
+    <div class="member-card">
+      {% if m.photo %}
+      <img src="{{ m.photo | relative_url }}" alt="{{ m.name }}">
+      {% endif %}
+      <div class="member-name">{{ m.name }}</div>
+      <div class="member-meta">
+        {% if m.research %}研究方向：{{ m.research }}<br>{% endif %}
+        {% if m.email %}邮箱：{{ m.email }}{% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  {% else %}
+    <p>暂无信息</p>
+  {% endif %}
+  </div>
+</div>
+
+<!-- 2024级本科生 -->
+<div class="member-section">
+  <h2>本科生（2024级）</h2>
+  <div class="member-grid">
+  {% if u2024 %}
+    {% for m in u2024 %}
     <div class="member-card">
       {% if m.photo %}
       <img src="{{ m.photo | relative_url }}" alt="{{ m.name }}">
