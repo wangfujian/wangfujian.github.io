@@ -21,7 +21,7 @@ masters_2024:
 masters_2025:
   - name: "陈俊豪"
     photo: "/images/members/2025_1.jpg"
-    research: "无人机控制"
+    research: "无人机、航天器控制"
     email: "1145176624@qq.com"
   - name: "房丽琦"
     photo: "/images/members/2025_2.jpg"
@@ -44,8 +44,8 @@ alumni_masters_2022:
     research: "无人机路径规划和自主着陆、四足机器狗强化学习运动控制"
     employer: "五八智能科技(杭州)有限公司"
 
-undergrads_2022:
-  - name: "本科生同学"
-    photo: "/images/members/undergrad_2022_01.png"
-    research: "飞控相关方向"
-    email: "undergrad1@mail.nwpu.edu.cn"
+undergrads_2024:
+  - name: "陈冠霖"
+    photo: "/images/members/B_2024_01.jpg"
+    research: "无人机集群任务分配"
+    email: "chenguanlin@mail.nwpu.edu.cn"
